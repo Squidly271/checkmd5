@@ -35,7 +35,7 @@ The 'post-install' script.
 <FILE Run="/bin/bash">
 <INLINE>
 
-upgradepkg --install-new /boot/config/plugins/checkmd5/check_md5.txz
+installpkg /boot/config/plugins/checkmd5/check_md5.txz
 
 echo ""
 echo "-----------------------------------------------------------"
