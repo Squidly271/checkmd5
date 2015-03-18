@@ -5,7 +5,7 @@
 <!ENTITY author    "Andrew Zawadzki">
 <!ENTITY version   "2015.03.17">
 <!ENTITY launch    "Settings/Check_MD5">
-<!ENTITY pluginURL "https://raw.githubusercontent.com/Squidly271/checkmd5/master/Check_MD5.plg">
+<!ENTITY pluginURL "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.cache.dirs.plg">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;">
