@@ -25,7 +25,7 @@ Check_MD5 Plugin.  Front end for a script to check MD5 hashes on a drive / share
 <!--
 Get the files... Gotta figure out why I can't get zip to work... grr
 -->
-<FILE Name="/boot/config/plugins/checkmd5/check_md5.txz" Run="upgradepkg --install">
+<FILE Name="/boot/config/plugins/checkmd5/check_md5.txz" Run="upgradepkg --install-new">
 <URL>--no-check-certificate https://raw.github.com/Squidly271/checkmd5/blob/master/check_md5.txz</URL>
 </FILE>
 
